@@ -4,7 +4,7 @@
 - The main verticle is  named (MainVerticle.Java) 
 - The Supplementary verticles (PermutationsVerticle, and SalesmanVerticle )
 - Are Deployed using the 
-- Verticle.deployVerticle(Verticle verticle,Handler<AsyncResult<String>>)
+- Vertx.deployVerticle(Verticle verticle,Handler<AsyncResult<String>>)
 - Method of the Abstract Verticle Class ;
 
 - To compile with maven , run the following commands on the terminal : 
